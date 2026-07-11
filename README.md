@@ -42,7 +42,7 @@ pip install requests
 
 4.Run the tool:
 ```
-python fddos.py
+python stormsender.py
 ```
 
 ---
